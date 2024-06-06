@@ -2,6 +2,8 @@
 
 ### Feature 1
 Since from the begining it was in mind to create something very funny. But i have started with making the base of the project. I was decided to not use Unit assets, because it was supoused to show the ability to create a game from 0. It is suposed to be a game in a gachimuchi style. To show some popular memes.
+### Before this
+I have Installed the necessary Unity Editor to develop the game and chose the platform WebGL for building the project. After that:
 
 ### I have added: 
 Some pictures that will serve as a background for better user atmosphere during the game.
